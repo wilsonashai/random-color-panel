@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import './App.css';
-import 'react-hint/css/index.css';
 import Panel from './panel';
 
 class App extends Component {
